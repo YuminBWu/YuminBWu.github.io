@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## *Graduate student of NCSU*
+#### *Graduate student of NCSU*
 
 ### More Information
 
