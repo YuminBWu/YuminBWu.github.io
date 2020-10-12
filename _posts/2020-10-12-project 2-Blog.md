@@ -1,4 +1,7 @@
-Project 2 Post
+---
+layout: post
+title: Project 2 Post
+---
  
 For this project, I used regression tree model and boosted tree model to analysze the online news data.       
 
