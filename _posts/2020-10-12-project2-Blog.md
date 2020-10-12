@@ -13,6 +13,6 @@ This project is really an interesting challenge for me. Especially the automatio
 
 I learnt a lot from this project, such as how to generate an analysis report automatically for any values of variables I want.    
 
-At last, please check [this link](https://yuminbwu.github.io/project2/) to my github page repo.    
+At last, please check [this link](https://yuminbwu.github.io/project2/) to my github page repo.      
 
 
