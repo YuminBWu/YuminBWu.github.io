@@ -1,3 +1,7 @@
+---
+layout: post
+title: Reflection Blog
+---
 
 Q: What (if anything) has changed about what you think a data scientist is and what they do?       
 A: Most things has not changed about what I think a data scientist is and what they do.       
